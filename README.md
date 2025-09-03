@@ -12,7 +12,7 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: Generate Dataset
 
-Create input values  from 1 to 50 and add random noise to introduce variations in output values .
+Create input values  from 1 to 50 and add random noise to introduce variations in output values 
 
 ### STEP 2: Initialize the Neural Network Model
 
